@@ -23,4 +23,4 @@ When:
 
 How:
      
-     * By installing in phone or Laptop.
+   * By installing in phone or Laptop.
