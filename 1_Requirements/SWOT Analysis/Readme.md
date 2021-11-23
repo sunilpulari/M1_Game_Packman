@@ -1,12 +1,12 @@
 Strengths
 
-     Cost advantage
-     Asset leverage
-    Effective communication
-    High R&D
-    Innovation
-    Online growth
-    Loyal customers
+* Cost advantage
+* Asset leverage
+* Effective communication
+* High R&D
+* Innovation
+* Online growth
+* Loyal customers
 
 Weaknesses
 
